@@ -16,7 +16,7 @@ This repository is currently under development. More updates will follow as the 
 
 The following schematic shows the flow of data between the Raspberry Pi Pico, fingerprint sensor, OLED display, and servo motor:
 
-![Lockbox Schematic]([schematic/lockbox_schematic.png](https://github.com/ErvSim/Lockbox_Safe/blob/main/schematic/Lockbox.png)
+[schematic/lockbox_schematic.png](https://github.com/ErvSim/Lockbox_Safe/blob/main/schematic/Lockbox.png)
 
 You can also open and explore the project logic using the Logisim file:
 
